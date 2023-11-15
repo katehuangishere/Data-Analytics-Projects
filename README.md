@@ -32,5 +32,4 @@
   - Use python to find
     - Which sports the performance has increased or decreased the most?
     - In which sports the difference between men and women is the least/most (in percentage terms).
-    - In which sports and years the difference between the gold and the silver is the greatest?
-< img src=
+    - In which sports and years the difference between the gold and the silver is the greatest?  
